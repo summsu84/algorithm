@@ -1,0 +1,65 @@
+The system is: Windows - 10.0.17134 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/cl.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+x86용 Microsoft (R) C/C++ 최적화 컴파일러 버전 19.00.23026
+Copyright (c) Microsoft Corporation. All rights reserved.
+
+CMakeCCompilerId.c
+Microsoft (R) Incremental Linker Version 14.00.23026.0
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCCompilerId.exe 
+CMakeCCompilerId.obj 
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "D:/workspace/ccppProject/ft/cmake-build-debug/CMakeFiles/3.12.0/CompilerIdC/CMakeCCompilerId.exe"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: D:/workspace/ccppProject/ft/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command:"nmake" "/nologo" "cmTC_656f4\fast"
+	"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\BIN\nmake.exe" -f CMakeFiles\cmTC_656f4.dir\build.make /nologo -L                  CMakeFiles\cmTC_656f4.dir\build
+Building C object CMakeFiles/cmTC_656f4.dir/testCCompiler.c.obj
+	C:\PROGRA~2\MICROS~1.0\VC\bin\cl.exe @C:\Users\JJW\AppData\Local\Temp\nm6CDB.tmp
+testCCompiler.c
+Linking C executable cmTC_656f4.exe
+	"D:\Program Files\JetBrains\CLion 2018.2.2\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_656f4.dir --manifests  -- C:\PROGRA~2\MICROS~1.0\VC\bin\link.exe /nologo @CMakeFiles\cmTC_656f4.dir\objects1.rsp @C:\Users\JJW\AppData\Local\Temp\nm6ED0.tmp
+
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: D:/workspace/ccppProject/ft/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command:"nmake" "/nologo" "cmTC_c9abf\fast"
+	"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\BIN\nmake.exe" -f CMakeFiles\cmTC_c9abf.dir\build.make /nologo -L                  CMakeFiles\cmTC_c9abf.dir\build
+Building C object CMakeFiles/cmTC_c9abf.dir/CMakeCCompilerABI.c.obj
+	C:\PROGRA~2\MICROS~1.0\VC\bin\cl.exe @C:\Users\JJW\AppData\Local\Temp\nm7528.tmp
+CMakeCCompilerABI.c
+Linking C executable cmTC_c9abf.exe
+	"D:\Program Files\JetBrains\CLion 2018.2.2\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_c9abf.dir --manifests  -- C:\PROGRA~2\MICROS~1.0\VC\bin\link.exe /nologo @CMakeFiles\cmTC_c9abf.dir\objects1.rsp @C:\Users\JJW\AppData\Local\Temp\nm76FD.tmp
+
+
+
+
+Detecting C [] compiler features compiled with the following output:
+Change Dir: D:/workspace/ccppProject/ft/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command:"nmake" "/nologo" "cmTC_87d4c\fast"
+	"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\BIN\nmake.exe" -f CMakeFiles\cmTC_87d4c.dir\build.make /nologo -L                  CMakeFiles\cmTC_87d4c.dir\build
+Building C object CMakeFiles/cmTC_87d4c.dir/feature_tests.c.obj
+	C:\PROGRA~2\MICROS~1.0\VC\bin\cl.exe @C:\Users\JJW\AppData\Local\Temp\nm7C7B.tmp
+feature_tests.c
+Linking C executable cmTC_87d4c.exe
+	"D:\Program Files\JetBrains\CLion 2018.2.2\bin\cmake\win\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_87d4c.dir --manifests  -- C:\PROGRA~2\MICROS~1.0\VC\bin\link.exe /nologo @CMakeFiles\cmTC_87d4c.dir\objects1.rsp @C:\Users\JJW\AppData\Local\Temp\nm7D66.tmp
+
+
+    Feature record: C_FEATURE:1c_function_prototypes
+    Feature record: C_FEATURE:1c_variadic_macros

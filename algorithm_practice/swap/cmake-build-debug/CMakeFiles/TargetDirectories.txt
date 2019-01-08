@@ -1,0 +1,3 @@
+D:/workspace/ccppProject/swap/cmake-build-debug/CMakeFiles/swap.dir
+D:/workspace/ccppProject/swap/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/workspace/ccppProject/swap/cmake-build-debug/CMakeFiles/rebuild_cache.dir

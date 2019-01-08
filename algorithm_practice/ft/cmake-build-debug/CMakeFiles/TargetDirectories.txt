@@ -1,0 +1,3 @@
+D:/workspace/ccppProject/ft/cmake-build-debug/CMakeFiles/ft.dir
+D:/workspace/ccppProject/ft/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/workspace/ccppProject/ft/cmake-build-debug/CMakeFiles/rebuild_cache.dir
