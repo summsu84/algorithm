@@ -1,4 +1,4 @@
-"D:\Program Files\JetBrains\CLion 2018.2.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - NMake Makefiles" D:\workspace\ccppProject\dwarf
+"D:\Program Files\JetBrains\CLion 2018.2.2\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - NMake Makefiles" D:\workspace\ccppProject\algorithm_practice\algorithm_practice\dwarf
 -- The C compiler identification is MSVC 19.0.23026.0
 -- Check for working C compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/cl.exe
 -- Check for working C compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/cl.exe -- works
@@ -8,4 +8,4 @@
 -- Detecting C compile features - done
 -- Configuring done
 -- Generating done
--- Build files have been written to: D:/workspace/ccppProject/dwarf/cmake-build-debug
+-- Build files have been written to: D:/workspace/ccppProject/algorithm_practice/algorithm_practice/dwarf/cmake-build-debug

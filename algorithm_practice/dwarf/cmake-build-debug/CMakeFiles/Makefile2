@@ -60,10 +60,10 @@ RM = "D:\Program Files\JetBrains\CLion 2018.2.2\bin\cmake\win\bin\cmake.exe" -E 
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = D:\workspace\ccppProject\dwarf
+CMAKE_SOURCE_DIR = D:\workspace\ccppProject\algorithm_practice\algorithm_practice\dwarf
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = D:\workspace\ccppProject\dwarf\cmake-build-debug
+CMAKE_BINARY_DIR = D:\workspace\ccppProject\algorithm_practice\algorithm_practice\dwarf\cmake-build-debug
 
 #=============================================================================
 # Target rules for target CMakeFiles/dwarf.dir
@@ -72,7 +72,7 @@ CMAKE_BINARY_DIR = D:\workspace\ccppProject\dwarf\cmake-build-debug
 CMakeFiles\dwarf.dir\all:
 	$(MAKE) -f CMakeFiles\dwarf.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\dwarf.dir\depend
 	$(MAKE) -f CMakeFiles\dwarf.dir\build.make /nologo -$(MAKEFLAGS) CMakeFiles\dwarf.dir\build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\workspace\ccppProject\dwarf\cmake-build-debug\CMakeFiles --progress-num=1,2 "Built target dwarf"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\workspace\ccppProject\algorithm_practice\algorithm_practice\dwarf\cmake-build-debug\CMakeFiles --progress-num=1,2 "Built target dwarf"
 .PHONY : CMakeFiles\dwarf.dir\all
 
 # Include target in all.
@@ -82,9 +82,9 @@ all: CMakeFiles\dwarf.dir\all
 
 # Build rule for subdir invocation for target.
 CMakeFiles\dwarf.dir\rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\workspace\ccppProject\dwarf\cmake-build-debug\CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\workspace\ccppProject\algorithm_practice\algorithm_practice\dwarf\cmake-build-debug\CMakeFiles 2
 	$(MAKE) -f CMakeFiles\Makefile2 /nologo -$(MAKEFLAGS) CMakeFiles\dwarf.dir\all
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\workspace\ccppProject\dwarf\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start D:\workspace\ccppProject\algorithm_practice\algorithm_practice\dwarf\cmake-build-debug\CMakeFiles 0
 .PHONY : CMakeFiles\dwarf.dir\rule
 
 # Convenience name for target.

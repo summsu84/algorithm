@@ -1,4 +1,4 @@
-# Install script for directory: D:/workspace/ccppProject/dwarf
+# Install script for directory: D:/workspace/ccppProject/algorithm_practice/algorithm_practice/dwarf
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "D:/workspace/ccppProject/dwarf/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "D:/workspace/ccppProject/algorithm_practice/algorithm_practice/dwarf/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

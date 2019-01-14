@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "D:/workspace/ccppProject/dwarf/main.c" "D:/workspace/ccppProject/dwarf/cmake-build-debug/CMakeFiles/dwarf.dir/main.c.obj"
+  "D:/workspace/ccppProject/algorithm_practice/algorithm_practice/dwarf/main.c" "D:/workspace/ccppProject/algorithm_practice/algorithm_practice/dwarf/cmake-build-debug/CMakeFiles/dwarf.dir/main.c.obj"
   )
 set(CMAKE_C_COMPILER_ID "MSVC")
 
